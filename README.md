@@ -51,5 +51,5 @@ This data-driven approach will enable Kashier to maximize revenue while strategi
 
 
 ![Dashboard Overview](https://github.com/esraamorsy131/E-payment-Case-Study/blob/main/Dashboard%201.PNG)
-![Dashboard Overview](./screenshots/dashboard.png)
+![Dashboard Overview](https://github.com/esraamorsy131/E-payment-Case-Study/blob/main/Dahboard%202.PNG)
 
