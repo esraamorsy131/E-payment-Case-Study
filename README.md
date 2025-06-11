@@ -50,6 +50,6 @@ Kashier currently distributes resources equally among three payment products: **
 This data-driven approach will enable Kashier to maximize revenue while strategically investing in the highest-potential payment products.
 
 
-![Dashboard Overview](./screenshots/dashboard.png)
+![Dashboard Overview](https://github.com/esraamorsy131/E-payment-Case-Study/blob/main/Dashboard%201.PNG)
 ![Dashboard Overview](./screenshots/dashboard.png)
 
