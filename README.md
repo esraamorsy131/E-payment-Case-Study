@@ -3,10 +3,10 @@
 ## 🔗 View the [Interactive Dashboard on Power BI]( https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/fc03e380-b090-4290-af66-4fc0a50be2b1/3fadb027dc935b347751?experience=power-bi)
 
  ## **Tools Used**
- - Python for cleaning data
- - PowerBI for modeling and visualization
- - Excel for extracting data
- - Notion for building report for stakeholders
+ - **Python** for cleaning data
+ - **PowerBI** for modeling and visualization
+ - **Excel** for extracting data
+ - **Notion** for building report for stakeholders
 
  ## **Data Source**
  Data was extracted from internal Kashier transaction logs covering period 1/1/2021 to 18/10/2029
