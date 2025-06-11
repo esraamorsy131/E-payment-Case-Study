@@ -1,5 +1,8 @@
 # **Kashier Transaction Analysis Report**
 
+    ## **Interactive Dashboard** 
+          (https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/fc03e380-b090-4290-af66-4fc0a50be2b1/3fadb027dc935b347751?experience=power-bi)
+
 ## **Executive Summary**
 
 Kashier currently distributes resources equally among three payment products: **Point-of-Sale (POS), Payment Pages (PP), and Payment Requests (PR)**. This report analyzes transaction data to determine which product has the highest revenue potential and should receive more strategic focus.
