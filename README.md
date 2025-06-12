@@ -1,6 +1,6 @@
 # **Kashier Transaction Analysis Report**
 
-## 🔗 View the [Interactive Dashboard on Power BI]( https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/fc03e380-b090-4290-af66-4fc0a50be2b1/3fadb027dc935b347751?experience=power-bi)
+## 🔗 View the [Interactive Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGMzNzEwYmEtYmMxZi00MDdlLWFmZTUtNGJiNDI3OTM5ZTBlIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
 
  ## **Tools Used**
  - **Python** for cleaning data
